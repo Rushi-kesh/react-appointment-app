@@ -1,3 +1,4 @@
+# Checkout project at [link](https://rushi-kesh.github.io/react-appointment-app/)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
