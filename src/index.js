@@ -101,7 +101,7 @@ function App() {
         {
           "id": 2,
           "startTime": "11:00 A.M.",
-          "endTime": "10:00 A.M.",
+          "endTime": "12:00 P.M",
           "booked": false,
           "name": null,
           "phone": null
